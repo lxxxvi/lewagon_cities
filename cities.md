@@ -12,3 +12,4 @@ Akureyri
 Stykkishólmur
 Hveragerði
 Sauðárkrókur
+Havanna
