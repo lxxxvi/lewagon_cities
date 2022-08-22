@@ -7,3 +7,6 @@ Lugano
 St. Gallen
 Lucerne
 Lausanne
+Zermatt
+Frauenfeld
+Winterthur
