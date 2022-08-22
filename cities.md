@@ -7,4 +7,9 @@ Lugano
 St. Gallen
 Lucerne
 Lausanne
+Reykjavík
+Akureyri
+Stykkishólmur
+Hveragerði
+Sauðárkrókur
 Havanna
