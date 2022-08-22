@@ -7,9 +7,6 @@ Lugano
 St. Gallen
 Lucerne
 Lausanne
-
-
-# Welton's City
 Rio de Janeiro
 São Paulo
 Brasília
@@ -18,3 +15,9 @@ Pernambuco
 Amazonas
 Minas Gerais
 Rio Grande do Sul
+Reykjavík
+Akureyri
+Stykkishólmur
+Hveragerði
+Sauðárkrókur
+Havanna
