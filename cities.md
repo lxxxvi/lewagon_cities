@@ -1,9 +1,5 @@
-Aarau
-Zurich
-Berne
-Basel
-Geneva
-Lugano
-St. Gallen
-Lucerne
-Lausanne
+Paris
+Saint-Malo
+Bordeaux
+Nice
+Cannes
