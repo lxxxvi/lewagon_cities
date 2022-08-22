@@ -7,3 +7,4 @@ Lugano
 St. Gallen
 Lucerne
 Lausanne
+Havanna
